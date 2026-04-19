@@ -1,0 +1,252 @@
+[
+  {
+    "id": 0,
+    "title": "حکومت کا نیا بجٹ اعلان",
+    "category": "Politics"
+  },
+  {
+    "id": 1,
+    "title": "پارلیمنٹ میں قانون سازی پر بحث",
+    "category": "Politics"
+  },
+  {
+    "id": 2,
+    "title": "وزیراعلیٰ کا ترقیاتی منصوبوں کا اعلان",
+    "category": "Politics"
+  },
+  {
+    "id": 3,
+    "title": "اپوزیشن کا احتجاجی جلسہ",
+    "category": "Politics"
+  },
+  {
+    "id": 4,
+    "title": "الیکشن کمیشن کا نیا ضابطہ",
+    "category": "Politics"
+  },
+  {
+    "id": 5,
+    "title": "کابینہ اجلاس میں معاشی صورتحال کا جائزہ",
+    "category": "Politics"
+  },
+  {
+    "id": 6,
+    "title": "گورنر اور وزیراعلیٰ کی ملاقات",
+    "category": "Politics"
+  },
+  {
+    "id": 7,
+    "title": "پارٹی کے اندر تنظیمی تبدیلیاں",
+    "category": "Politics"
+  },
+  {
+    "id": 8,
+    "title": "سینیٹ میں خارجہ پالیسی پر بحث",
+    "category": "Politics"
+  },
+  {
+    "id": 9,
+    "title": "بلدیاتی نظام میں اصلاحات",
+    "category": "Politics"
+  },
+  {
+    "id": 10,
+    "title": "پاکستان کی میچ میں کامیابی",
+    "category": "Sports"
+  },
+  {
+    "id": 11,
+    "title": "فٹبال ٹورنامنٹ کا فائنل",
+    "category": "Sports"
+  },
+  {
+    "id": 12,
+    "title": "قومی ٹیم کے نئے کوچ کا اعلان",
+    "category": "Sports"
+  },
+  {
+    "id": 13,
+    "title": "ہاکی لیگ میں سخت مقابلہ",
+    "category": "Sports"
+  },
+  {
+    "id": 14,
+    "title": "بیٹر کی سنچری نے میچ بدل دیا",
+    "category": "Sports"
+  },
+  {
+    "id": 15,
+    "title": "ٹینس مقابلے میں بڑا اپ سیٹ",
+    "category": "Sports"
+  },
+  {
+    "id": 16,
+    "title": "کھلاڑیوں کے فٹنس کیمپ کا آغاز",
+    "category": "Sports"
+  },
+  {
+    "id": 17,
+    "title": "ویمن ٹیم کی اہم کامیابی",
+    "category": "Sports"
+  },
+  {
+    "id": 18,
+    "title": "فائنل سے پہلے پریکٹس سیشن",
+    "category": "Sports"
+  },
+  {
+    "id": 19,
+    "title": "اسٹیڈیم میں شائقین کا جوش",
+    "category": "Sports"
+  },
+  {
+    "id": 20,
+    "title": "مہنگائی اور بازار کی صورتحال",
+    "category": "Economy"
+  },
+  {
+    "id": 21,
+    "title": "بینک پالیسی میں تبدیلی",
+    "category": "Economy"
+  },
+  {
+    "id": 22,
+    "title": "برآمدات میں معمولی اضافہ",
+    "category": "Economy"
+  },
+  {
+    "id": 23,
+    "title": "چھوٹے کاروباروں کے لیے قرض اسکیم",
+    "category": "Economy"
+  },
+  {
+    "id": 24,
+    "title": "پٹرولیم قیمتوں میں ردوبدل",
+    "category": "Economy"
+  },
+  {
+    "id": 25,
+    "title": "مالیاتی خسارے پر تشویش",
+    "category": "Economy"
+  },
+  {
+    "id": 26,
+    "title": "اسٹاک مارکیٹ میں اتار چڑھاؤ",
+    "category": "Economy"
+  },
+  {
+    "id": 27,
+    "title": "زرمبادلہ کے ذخائر میں بہتری",
+    "category": "Economy"
+  },
+  {
+    "id": 28,
+    "title": "بجلی کی لاگت اور صنعت",
+    "category": "Economy"
+  },
+  {
+    "id": 29,
+    "title": "گندم اور چینی کی قیمتوں پر نظر",
+    "category": "Economy"
+  },
+  {
+    "id": 30,
+    "title": "عالمی سطح پر نئے سفارتی روابط",
+    "category": "International"
+  },
+  {
+    "id": 31,
+    "title": "اقوام متحدہ میں اجلاس",
+    "category": "International"
+  },
+  {
+    "id": 32,
+    "title": "سرحدی کشیدگی پر مذاکرات",
+    "category": "International"
+  },
+  {
+    "id": 33,
+    "title": "عالمی تجارتی معاہدے پر دستخط",
+    "category": "International"
+  },
+  {
+    "id": 34,
+    "title": "غیر ملکی وزرائے خارجہ کی ملاقات",
+    "category": "International"
+  },
+  {
+    "id": 35,
+    "title": "عالمی کانفرنس میں موسمیاتی گفتگو",
+    "category": "International"
+  },
+  {
+    "id": 36,
+    "title": "خطے میں سلامتی کی صورتحال",
+    "category": "International"
+  },
+  {
+    "id": 37,
+    "title": "پناہ گزینوں کے بحران پر تشویش",
+    "category": "International"
+  },
+  {
+    "id": 38,
+    "title": "امن مذاکرات کا نیا دور",
+    "category": "International"
+  },
+  {
+    "id": 39,
+    "title": "باہمی تجارت بڑھانے پر اتفاق",
+    "category": "International"
+  },
+  {
+    "id": 40,
+    "title": "ہسپتالوں میں مریضوں کا دباؤ",
+    "category": "Health & Society"
+  },
+  {
+    "id": 41,
+    "title": "تعلیم اور صحت کے مسائل",
+    "category": "Health & Society"
+  },
+  {
+    "id": 42,
+    "title": "ویکسین مہم کا آغاز",
+    "category": "Health & Society"
+  },
+  {
+    "id": 43,
+    "title": "اسکولوں میں حاضری کا مسئلہ",
+    "category": "Health & Society"
+  },
+  {
+    "id": 44,
+    "title": "سیلاب متاثرین کے لیے امداد",
+    "category": "Health & Society"
+  },
+  {
+    "id": 45,
+    "title": "ہوا میں آلودگی اور سانس کے مسائل",
+    "category": "Health & Society"
+  },
+  {
+    "id": 46,
+    "title": "دیہی علاقوں میں طبی سہولیات کی کمی",
+    "category": "Health & Society"
+  },
+  {
+    "id": 47,
+    "title": "نوجوانوں میں ذہنی دباؤ پر گفتگو",
+    "category": "Health & Society"
+  },
+  {
+    "id": 48,
+    "title": "پینے کے صاف پانی کا مسئلہ",
+    "category": "Health & Society"
+  },
+  {
+    "id": 49,
+    "title": "خواتین کی صحت سے متعلق آگاہی مہم",
+    "category": "Health & Society"
+  }
+]
